@@ -1,7 +1,5 @@
 # Bienvenido/a a mi perfil de Github
 
-![Foto de perfil](https://avatars.githubusercontent.com/u/130258277?v=4)
-
 ¡Hola! Soy **Edwin Torres**, un apasionado desarrollador web de **Medellín | Colombia**.
 
 ## Sobre mí
