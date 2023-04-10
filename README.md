@@ -1,16 +1,29 @@
-### Hi there 👋
+# Bienvenido/a a mi perfil de Github
 
-<!--
-**edwintorresdev/edwintorresdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Foto de perfil](https://avatars.githubusercontent.com/u/130258277?v=4)
 
-Here are some ideas to get you started:
+¡Hola! Soy **Edwin Torres**, un apasionado desarrollador web de **Medellín | Colombia**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+Actualmente me encuentro aprendiendo de la mano de [@glrodasz](https://github.com/glrodasz) de [Undefined Shell Academy](https://undefined.academy/) en el ***Bootcamp de JavaScript FullStack***
+
+Actualmente, me estoy enfocando en desarrollar un emprendimiento de base tecnológica, y estoy aprendiendo más sobre `JavaScript` para poder usar de una manera adecuada `NextJS`.
+
+Hasta el momento ya he aprendido varios comandos usando la terminal entre los cuales destaco:
+
+| Comando | Descripción |
+| ------------- | ------------- |
+| clear | Limpia la terminal |
+| cd | Cambiar de directorio |
+| mkdir | Crear un directorio |
+| touch | Crear un archivo |
+| alias | Crea alias de comandos |
+
+También he aprendido a crear alias de los cuales, el siguiente par me están siendo muy útiles:
+
+| Alias | Descripción |
+| ------------- | ------------- |
+| cl | alias cl='clear' sirve para limpiar la pantalla |
+| gpom | alias gpom='git push origin main' sirve para envair cambios a repositorio remoto |
+
+¡Gracias por visitar mi perfil de GitHub!
